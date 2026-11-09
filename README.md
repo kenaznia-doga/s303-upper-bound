@@ -45,4 +45,4 @@ Started from the registry's current n = 303 packing (Evan Daniel (found_by), aft
 
 The search was AI-assisted throughout (an AI agent wrote and ran the search and the checks); the checks above were run by code that did not produce the packing. Doğa directed the work.
 
-The best public Kaggle per-puzzle side we found for 303 is 17.906978233799 (ntumlnoob), above ours.
+The best public Kaggle per-puzzle side we found for 303 is 17.906978233799 (ntumlnoob), above ours. The Kaggle per-puzzle leaderboard also lists an unpublished side-only entry for 303, 17.8959261583 (team Cats and boxes 😼, 2026-11-01), smaller than ours; it states no packing, we cannot verify it and make no claim about it. This is the best published packing with a certificate, not the smallest side anyone has scored.
